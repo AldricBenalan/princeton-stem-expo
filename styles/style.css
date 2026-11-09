@@ -800,12 +800,6 @@ body {
     overflow: hidden;
 }
 
-.team-image--initials {
-    color: white;
-    font-size: 2.5rem;
-    font-weight: 600;
-}
-
 .team-image i {
     font-size: 4rem;
     color: white;
